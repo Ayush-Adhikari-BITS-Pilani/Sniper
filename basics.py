@@ -1,0 +1,1 @@
+print("aata majoi satakli");
